@@ -3,10 +3,6 @@
 
 TravelLogBook is a simple React app for logging and sharing your travel experiences around the world. Add entries for each destination, including photos, dates, descriptions, and a link to the location on Google Maps.
 
-## Features
-- 📍 Add and view travel entries with images, country, dates, and descriptions
-- 🌐 Quick access to each location on Google Maps
-- 🗺️ Clean, responsive UI with a global travel theme
 
 ## Demo
 ![TravelLogBook Demo](image.png))
