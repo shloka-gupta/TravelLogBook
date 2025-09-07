@@ -7,6 +7,8 @@ TravelLogBook is a simple React app for logging and sharing your travel experien
 ## Demo
 ![TravelLogBook Demo](image.png))
 
+Deployed on: https://travelogg.netlify.app/
+
 ## Getting Started
 
 1. **Install dependencies:**
